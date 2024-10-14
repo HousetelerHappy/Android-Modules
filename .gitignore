@@ -1,0 +1,95 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# Gradle files
+.gradle/
+build/
+app/build
+ui/build
+
+# Log/OS Files
+*.log
+# Local configuration file (sdk path, etc)
+local.properties
+
+
+# Android Studio generated files and folders
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+output.json
+
+# IntelliJ
+*.iml
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Android Profiling
+*.hprof
+
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-related files (for IntelliJ IDEA/Android Studio)
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Gradle
+.gradle/
+build/
+**/build/
+local.properties
+.gradle-cache/
+
+# Log files
+*.log
+
+# Android-specific
+/.cxx/
+/.externalNativeBuild/
+/captures/
+/outputs/
+/intermediates/
+/local.properties
+
+# Ignore generated configuration files
+config.xml
+
+
+# Module 1: app
+/app/build/
+/app/.cxx/
+/app/.externalNativeBuild/
+/app/local.properties
+
+# Module 2: library
+/ui/build/
+/ui/.cxx/
+/ui/.externalNativeBuild/
+/ui/local.properties
